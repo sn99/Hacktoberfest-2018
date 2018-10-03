@@ -3,7 +3,7 @@ Here is a starter project for first time contributors #hacktoberfest
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
-## Getting started
+## Getting started 
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 
@@ -34,7 +34,11 @@ Simply add
 
 **OR**
 
-* Click on `create new file`
+* Follow [Another practical guide](https://guides.github.com/activities/hello-world/)
+
+**OR**
+
+* Click on `create new file` ***when inside the `hellos` dictionary** 
 
 ## What should I do ?
 
