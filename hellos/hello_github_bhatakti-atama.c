@@ -3,6 +3,6 @@
 main()
 {
 /* language: c */
-/* Author: bhatakti-atama/*
+/* Author: bhatakti-atama*/
 printf("Hello, Github \n");
 }
