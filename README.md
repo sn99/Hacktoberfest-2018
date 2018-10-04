@@ -60,3 +60,9 @@ Name the file `hello_github_yourusername.xx`. e.g., `hello_github_sn99.rs` or `h
 **Don't forget to include the comments as seen above.**
 
 [markdown cheat-sheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+
+### You can Addition after clone this repositories by a Text Editors
+this is some Text Editors recommended For you.
+- [Vs Code](https://code.visualstudio.com/)
+- [Sublime](https://www.sublimetext.com/)
+- [Atom](https://atom.io/)
