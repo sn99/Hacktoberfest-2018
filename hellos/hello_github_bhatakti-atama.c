@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
-main()
+void main()
 {
 /* language: c */
 /* Author: bhatakti-atama*/
