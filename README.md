@@ -1,7 +1,7 @@
 # Hacktoberfest-2018
 Here is a starter project for first time contributors #hacktoberfest 
 
-Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
+Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!!
 
 ## Getting started 
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
