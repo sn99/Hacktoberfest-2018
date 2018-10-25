@@ -61,4 +61,5 @@ Name the file `hello_github_yourusername.xx`. e.g., `hello_github_sn99.rs` or `h
 
 *Remember to make a pull request from your forked version*
 
+[Reddit channel for beginners](https://www.reddit.com/r/learnprogramming/)
 [markdown cheat-sheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
