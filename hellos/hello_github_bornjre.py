@@ -1,1 +1,1 @@
-print("hello world by bornjre from github")
+print("hello world from github")
